@@ -1,5 +1,6 @@
 # NeuroStartUp
 
-Hello! Hello! I'm studying Netology! And I like it!
-
-This is my homework!
+ООО «Рога и копыта»
+Издательство «Читый лист»
+Космопорт «Черезтерновый Кзвёздный»
+Дизайн-студия имени Слишком Известного Персонажа
