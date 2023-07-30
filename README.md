@@ -2,6 +2,4 @@
 
 Hello! Hello! I'm studying Netology! And I like it!
 
-This is my homework))
-
-
+This is my homework!
